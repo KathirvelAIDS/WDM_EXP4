@@ -46,4 +46,15 @@ plt.show()
 ### Output:
 
 
+
+![image](https://github.com/user-attachments/assets/01a6595d-b394-4498-a0d7-a66f7c39892f)
+
+
+
+
 ### Result:
+
+
+
+
+Hence Cluster and Visitor Segmentation for Navigation patterns in Python is implemented.
